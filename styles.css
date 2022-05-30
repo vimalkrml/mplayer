@@ -11,7 +11,7 @@ body
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #07252d;
+  background: black;
 }
 h2
 {
@@ -54,7 +54,7 @@ audio::-webkit-media-controls-current-time-display {
 }
 .text
 {
-font-size: 2rem;
+font-size: 1.5rem;
 align-items: baseline;
 }
 
