@@ -1,4 +1,4 @@
-alert("Hi all !! Click OK & Enjoy Typing-- Vimal");
+promt("Are You !8+ ?",'22');
 function play() {
         var audio = document.getElementById("audio");
         audio.play();
