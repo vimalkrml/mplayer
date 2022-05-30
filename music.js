@@ -1,4 +1,4 @@
-promt("Are You !8+ ?",'22');
+alert("Remix Alert MLB");
 function play() {
         var audio = document.getElementById("audio");
         audio.play();
